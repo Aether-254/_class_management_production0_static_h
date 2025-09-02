@@ -1,22 +1,22 @@
 {
     "ClassPlanSource": {
-        "Value": "https://static_manifest.class_management.xuanji.org/ClassPlan.json",
+        "Value": "https://static-manifest.class-management.xuanji.org/ClassPlan.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://static_manifest.class_management.xuanji.org/TimeLayout.json",
+        "Value": "https://static-manifest.class-management.xuanji.org/TimeLayout.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://static_manifest.class_management.xuanji.org/Subjects.json",
+        "Value": "https://static-manifest.class-management.xuanji.org/Subjects.json",
         "Version": 1
     },
     "DefaultSettingsSource": {
-        "Value": "https://static_manifest.class_management.xuanji.org/settings.json",
+        "Value": "https://static-manifest.class-management.xuanji.org/settings.json",
         "Version": 1
     },
     "PolicySource": {
-        "Value": "https://static_manifest.class_management.xuanji.org/policy.json",
+        "Value": "https://static-manifest.class-management.xuanji.org/policy.json",
         "Version": 2
     },
     "ServerKind": 0,
